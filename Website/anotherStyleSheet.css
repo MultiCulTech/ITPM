@@ -1,0 +1,73 @@
+
+h1.title{
+position: relative;
+
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 40px;
+text-align: left;
+font-family: verdana;
+color: black;
+
+}
+div.jumbotron{
+	
+	background-color : white;
+	margin-bottom : 0;
+	
+}
+div.container{
+	background-color : brown;
+}
+img{
+	opacity : 0.4;
+}
+div.carousel-inner{
+	position : relative;
+	margin-top : 0;
+	background-color: white;
+}
+h2.introduction{
+	position : absolute;
+	text-align : center; 
+    left: 0;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+	color: black
+}
+p.int2{
+	position : absolute;
+	top : 10%;
+	width : 100%
+    font-weight: 300;
+    line-height: normal;
+    font-size: 20px;
+    text-align: center;
+	color: black;
+	padding : 20%;
+}
+div.well{
+	margin-top :2%;
+	background-color:white;
+	padding-right : 50%;
+	height : 500px	
+}
+h2.title-tmmem{
+	text-align:center;
+	color : white;
+}
+div.container-fluid{
+	margin-bottom: 20%;
+	
+}
+div.row{
+	padding:20dp;
+	color: white;
+	text-align:center;
+	margin-top:10%;
+	font-size: 20px;
+}
+	
+	
